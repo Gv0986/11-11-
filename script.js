@@ -33,7 +33,7 @@ const febHolidays = [
 
 "Aankhen bandh hote hi chehre pr aati muskan ho tum",
 
-"To kabhi behne vale nam aansu ho tum",
+"To kabhi behne vale num aansu ho tum",
 
 "Mere jeevan ki ardaas ho tum",
 
