@@ -3,7 +3,7 @@ const febHolidays = [
 
  "... it's 11:11 and i want  to make a Wish...",
 
-"Ek dil duwa pe atak gaya hai aab  yeh dil vineeta ji ",
+"Ek duwa pe atak gaya hai aab yeh dil vineeta ji ",
 
 "Apke siwa aab kuch manga nahi jata",
 
